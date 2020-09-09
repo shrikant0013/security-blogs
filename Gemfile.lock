@@ -5,7 +5,7 @@ GEM
     feedbag (0.9.6)
       nokogiri (~> 1.0)
       open_uri_redirections (~> 0.2)
-    json (2.0.2)
+    json (2.3.0)
     mini_portile2 (2.1.0)
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
